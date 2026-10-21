@@ -36,3 +36,31 @@ At the end of the day, record:
 ---
 **Program:** 4-Week Core AI & ML Internship Program  
 **Day:** 1 of 20
+
+---
+
+## Roadmap description
+
+### Theory
+- AI vs ML vs DL vs Generative AI — where each fits.
+- Supervised, unsupervised, semi-supervised, and reinforcement learning.
+- End-to-end ML lifecycle: problem framing → data → features → model → evaluation → deployment → monitoring.
+- What separates a college project from a production model: data quality, leakage, drift, latency, and cost.
+- Git & GitHub workflow: clone, branch, commit, pull request, and review.
+
+### Hands-on lab
+- Set up the Python environment and create the internship repository; make the first PR.
+- NumPy drills: array creation, broadcasting, vectorization vs loops (time both), slicing, `argmax`, and `where`.
+- Pandas drills: `read_csv`, `info`, `describe`, `groupby`, `merge`, `apply`, and `value_counts`.
+- Load Iris and Titanic; produce **five insights from each dataset**.
+
+### Expected deliverable
+- `day01_numpy_pandas.ipynb` (or clearly organized Python equivalents) and a working GitHub repository.
+
+### Practical completion checklist
+- [ ] Explain AI, ML, DL, and Generative AI with examples.
+- [ ] Explain the four learning paradigms.
+- [ ] Describe each stage of the ML lifecycle.
+- [ ] Run NumPy and Pandas exercises.
+- [ ] Document five insights each from Iris and Titanic.
+- [ ] Commit the work to GitHub and update a learning log.
